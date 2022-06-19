@@ -1,0 +1,9 @@
+{
+    "/assets/css/main.css": "/assets/css/main.css",
+    "/assets/css/style.css": "/assets/css/style.css",
+    "/assets/css/pages/home.css": "/assets/css/pages/home.css",
+    "/assets/css/pages/mapa.css": "/assets/css/pages/mapa.css",
+    "/assets/vendor/jquery.js": "/assets/vendor/jquery.js",
+    "/assets/vendor/bootstrap.js": "/assets/vendor/bootstrap.js",
+    "/sw.js": "/sw.js"
+}
